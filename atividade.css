@@ -1,0 +1,30 @@
+body
+{
+     background-color: black
+}
+main
+{
+     border: 2px solid blue;
+     background-color: white;
+     width: 250px;
+     margin: auto;
+     
+}
+h1
+{
+     text-align: center;
+}
+section
+{
+     
+}
+p
+{
+text-align: left;
+}
+.Ra
+
+{
+     color: blue;
+     font-size: 10px;
+}
